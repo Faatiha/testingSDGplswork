@@ -1,0 +1,14 @@
+#description, #direction{
+    width: 700px;
+    text-align: center;
+}
+#title{
+    padding-top: 30;
+}
+#q2_page_go, #q3_page_go, #q4_page_go, #q5_page_go, #q6_page_go, #final{
+    visibility: hidden;
+}
+#adjust{
+    margin-left:auto;
+    margin-right:auto;
+}
